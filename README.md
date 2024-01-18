@@ -9,5 +9,4 @@
 ## 🚀 Tecnologias que estou estudando
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br><br>
-
 Demora uma vida inteira para dominar o shakuhachi. Então, quanto mais cedo você começa, mais tempo leva para dominar.
